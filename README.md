@@ -4,7 +4,7 @@
 
 I'm currently training to become a **QA Engineer** at Masterschool, where I'm learning hands-on skills in **Python**, **Pytest**, and **Selenium** to automate and improve web applications. My current project involves designing and automating a Software Testing Life Cycle (STLC) for a demo webshop.
 
-Originally, I earned my **Master of Arts** in European Ethnology and Bohemistics. Before diving into tech, I worked as a **freelance translator** and **language tutor**. These experiences have given me a sharp eye for detail, a drive for precision, and a love for clear communication—skills I now bring into the world of software quality assurance!
+I earned my **Master of Arts** in European Ethnology and Bohemistics at the Humboldt-University of Berlin. Before diving into tech, I worked as a **freelance translator** and **language tutor**. These experiences have given me a sharp eye for detail, a drive for precision, and a love for clear communication—skills I now bring into the world of software quality assurance!
 
 ---
 
